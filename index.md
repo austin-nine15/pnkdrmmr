@@ -25,6 +25,21 @@ hero_button:
   text: Learn more
   href: "/about"
 show_news: true
+blocks:
+- template: slant-heros
+  image:
+  - main_image: "/media/2019/05/20/austin-1.jpg"
+    title: Upcoming Shows
+    text: New Project Coming Soon
+    link: ''
+  - main_image: "/media/2019/05/20/jump-2.jpg"
+    link: ''
+    title: The Gear
+    text: MUTATING UNCONTROLLABLY SINCE 1998
+  - main_image: "/media/2019/05/20/hero.jpg"
+    link: ''
+    title: Contact Me
+    text: ''
 menu:
   navigation:
     identifier: _index
